@@ -8,4 +8,4 @@ You can play the game: https://githubschool.github.io/github-games/
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-This Readme has been updated now
+This Readme has been updated now.
